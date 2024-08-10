@@ -7,8 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng deploy --base-href=/test99/ --repo=https://github.com/ivy7661/test99.git",
-    "serve:ssr:test99": "node dist/test99/server/server.mjs"
+    "deploy": "ng deploy --base-href=/2024-HW-hexschool-layout/ --repo=https://github.com/ivy7661/2024-HW-hexschool-layout.git",
+    "serve:ssr:2024-HW-hexschool-layout": "node dist/2024-HW-hexschool-layout/server/server.mjs"
   },
   "private": true,
   "dependencies": {
